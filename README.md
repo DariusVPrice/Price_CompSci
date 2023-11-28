@@ -20,3 +20,8 @@
  
 ![PythonOOP](https://github.com/DariusVPrice/Price_CompSci/assets/78953908/823a3c94-1d28-4e37-9f15-57ec6649f6da)
 
+# Below is a png of the Netwrok Design Visio template. In this template, I have a set of devices being connected to a switch, when then links to a router and finally to the internet
+
+<img width="1181" alt="NetworkDesign" src="https://github.com/DariusVPrice/Price_CompSci/assets/78953908/307cbc84-d2f3-4026-9bbf-2742b2fd3de1">
+
+
