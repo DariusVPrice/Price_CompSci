@@ -17,4 +17,6 @@
  [DariusPriceFlowerClass.pdf](https://github.com/DariusVPrice/Price_CompSci/files/13483178/DariusPriceFlowerClass.pdf)
 
  # Below is a screenshot of the Flower Class Code and the Python Script is Visual Studio Code
+ 
+![PythonOOP](https://github.com/DariusVPrice/Price_CompSci/assets/78953908/823a3c94-1d28-4e37-9f15-57ec6649f6da)
 
