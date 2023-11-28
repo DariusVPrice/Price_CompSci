@@ -5,7 +5,8 @@
 # https://new.express.adobe.com/published/urn:aaid:sc:US:603cc659-fc75-488c-9a89-637e89816f7e?promoid=Y69SGM5H&mv=other
 
 
-# Below is my additionvisualization flowchart, This visualization represents two variables being added and divided by two to give the user the sum of the two variables outputted into variable z
+# Below is my additionvisualization flowchart, This visualization represents two variables being added and divided by two to give the user the sum of the two variables outputted into variable z that reads an average of 2 numbers
+
 [AdditionVisualization.pdf](https://github.com/DariusVPrice/Price_CompSci/files/13336261/AdditionVisualization.pdf)
 
 # Below is a screenshot of my Python script
@@ -14,4 +15,6 @@
 
 # Below is the Visio Flower class pdf
  [DariusPriceFlowerClass.pdf](https://github.com/DariusVPrice/Price_CompSci/files/13483178/DariusPriceFlowerClass.pdf)
-that reads an average of 2 numbers
+
+ # Below is a screenshot of the Flower Class Code and the Python Script is Visual Studio Code
+
